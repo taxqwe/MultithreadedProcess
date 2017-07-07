@@ -1,0 +1,9 @@
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\bin\Release\KRPETROVDRAGUTAN.exe.config
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\bin\Release\KRPETROVDRAGUTAN.exe
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\bin\Release\KRPETROVDRAGUTAN.pdb
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\obj\Release\KRPETROVDRAGUTAN.MainForm.resources
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\obj\Release\KRPETROVDRAGUTAN.Properties.Resources.resources
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\obj\Release\KRPETROVDRAGUTAN.csproj.GenerateResource.Cache
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\obj\Release\KRPETROVDRAGUTAN.exe
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\obj\Release\KRPETROVDRAGUTAN.pdb
+C:\Users\Nan0B_000\documents\visual studio 2013\Projects\KRPETROVDRAGUTAN\KRPETROVDRAGUTAN\obj\Release\KRPETROVDRAGUTAN.csprojResolveAssemblyReference.cache
